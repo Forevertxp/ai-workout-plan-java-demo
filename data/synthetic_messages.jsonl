@@ -1,0 +1,3 @@
+{"messages": [{"role": "system", "content": "Explain a synthetic data concept."}, {"role": "user", "content": "请介绍 example concept."}, {"role": "assistant", "content": "Synthetic explanation A."}]}
+{"messages": [{"role": "system", "content": "Explain a synthetic data concept."}, {"role": "user", "content": "请介绍 example concept."}, {"role": "assistant", "content": "Synthetic explanation B."}]}
+{"messages": [{"role": "system", "content": "Explain a synthetic data concept."}, {"role": "user", "content": "请介绍 example concept."}, {"role": "assistant", "content": "Synthetic explanation A."}]}
