@@ -1,6 +1,6 @@
 # AI plan boundaries: a standalone Java and data-tool demo
 
-An educational companion to **Building an AI Workout Plan Generator in Java: PDF Data, LoRA, and Output Validation**.
+An educational companion to [Building an AI Workout Plan Generator in Java: PDF Data, LoRA, and Output Validation](https://tec-share.com/2026/10/30/ai-workout-plan-generator-java-lora-validation/).
 
 This repository reproduces resource validation, bounded output repair, task identity, stale-result protection, and a proposed review-to-SFT export. All fixtures are synthetic. It contains no member records, book passages, credentials, or private application dependencies.
 
